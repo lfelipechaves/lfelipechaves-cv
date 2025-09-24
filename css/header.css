@@ -9,6 +9,7 @@
 
 .header img {
   max-width: 300px;
+  height: auto;
 }
 
 .header-menu {
